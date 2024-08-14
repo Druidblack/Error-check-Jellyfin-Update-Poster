@@ -1,6 +1,6 @@
 # Error check Jellyfin Update Poster
 
-Программа для проверки медиатеки jellyfin на соблюдение условия необходимых для работы приложения [JellyfinUpdatePoster]([https://theposterdb.com/](https://github.com/Iceshadow1404/JellyfinUpdatePoster)).
+Программа для проверки медиатеки jellyfin на соблюдение условия необходимых для работы приложения [JellyfinUpdatePoster]([https://theposterdb.com/](https://github.com/Iceshadow1404/JellyfinUpdatePoster).
 Программа проверит медиатеку на отсутствие года выпуска в фильмах и сериалах, а так же если вы используете файловую систему отличную от NTFS, проверит имена ваших медиафайлов на допустимое количество символов.
 По окончанию работы в корне папки программы будет создан файл jellyfin_metadata.txt
 В файле буду сохранены данные о проблемных тайтлах с комментариями.
