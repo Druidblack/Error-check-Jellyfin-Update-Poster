@@ -14,7 +14,7 @@ def main():
     # Сохраняем данные в файл
     save_to_file(processed_data)
     
-    print(f"Данные успешно сохранены в файл.")
+    print(f"The data has been successfully saved to a file.")
 
 if __name__ == "__main__":
     main()
